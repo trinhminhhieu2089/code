@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(210deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    font-family: Segoe Print;
+}
+.table{
+    margin: auto;
+    border:   3px;
+    width: 40%;
+    padding-left: 50px;
+}
+form span{
+    text-align: center;
+    display: block;
+    font-family: sans-serif;
+    font-style: oblique;
+    font-size: 20px;
+    font-weight: bold;
+}
+form input{
+    border-radius: 4px;
+}
+#icon{
+    margin: auto;
+    text-align: justify;
+    padding-left: 48%;
+    list-style-type: none;
+}
+p{
+    font-style: inherit;
+    font-family: cursive;
+}
